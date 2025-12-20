@@ -2,6 +2,8 @@
 
 Tampermonkey script to copy images from web page
 
+Not maintained anymore.
+
 ## Why would one want this ?
 
 I first made this to use in parallel with [组卷网试卷处理下载打印](https://github.com/bzyzh/xkw-zujuan-script), which has problems downloading answers. It turns pages of 组卷网 to something like this :
